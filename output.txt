@@ -1,0 +1,12 @@
+Filled container. 
+Contains 4 elements
+0: It is the Track. Power of Engine = 150; Load capacity = 60
+
+1: It is the Bus. Power of Engine = 180; Passenger capacity = 2000
+
+2: It is the Track. Power of Engine = 130; Load capacity = 45
+
+3: It is the Bus. Power of Engine = 210; Passenger capacity = 3500
+
+Empty container. 
+Contains 0 elements
